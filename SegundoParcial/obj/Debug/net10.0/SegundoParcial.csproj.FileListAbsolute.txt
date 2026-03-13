@@ -1,0 +1,14 @@
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\bin\Debug\net10.0\SegundoParcial.exe
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\bin\Debug\net10.0\SegundoParcial.deps.json
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\bin\Debug\net10.0\SegundoParcial.runtimeconfig.json
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\bin\Debug\net10.0\SegundoParcial.dll
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\bin\Debug\net10.0\SegundoParcial.pdb
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\obj\Debug\net10.0\SegundoParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\obj\Debug\net10.0\SegundoParcial.AssemblyInfoInputs.cache
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\obj\Debug\net10.0\SegundoParcial.AssemblyInfo.cs
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\obj\Debug\net10.0\SegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\obj\Debug\net10.0\SegundoParcial.dll
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\obj\Debug\net10.0\refint\SegundoParcial.dll
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\obj\Debug\net10.0\SegundoParcial.pdb
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\obj\Debug\net10.0\SegundoParcial.genruntimeconfig.cache
+C:\Users\blu10\source\repos\ProgramaciónBasica\ProgramaciónBasicaTareas\SegundoParcial\obj\Debug\net10.0\ref\SegundoParcial.dll
